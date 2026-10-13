@@ -1,0 +1,148 @@
+Uri: https://enemorganizado.lovable.app/
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\index.htm
+Content Type: text/html
+
+Uri: https://enemorganizado.lovable.app/assets/index-CJqqcDlG.js
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\assets\index-CJqqcDlG.js
+Content Type: text/javascript
+
+Uri: https://enemorganizado.lovable.app/assets/routes-B-DHTE90.js
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\assets\routes-B-DHTE90.js
+Content Type: text/javascript
+
+Uri: https://enemorganizado.lovable.app/assets/styles-B4vbAynk.css
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\assets\styles-B4vbAynk.css
+Content Type: text/css
+
+Uri: https://enemorganizado.lovable.app/favicon.ico
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/1638e509-ef7a-4f17-9dfa-e7afa46aadb4/professora-desktop.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\1638e509-ef7a-4f17-9dfa-e7afa46aadb4\professora-desktop.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/39f447fb-0990-4659-baf1-821e271ac46c/depoimento_enem_3_otimizado.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\39f447fb-0990-4659-baf1-821e271ac46c\depoimento_enem_3_otimizado.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/3b4d4778-7e12-4e05-8155-1b22ba08df31/depoimento_enem_4_otimizado.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\3b4d4778-7e12-4e05-8155-1b22ba08df31\depoimento_enem_4_otimizado.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/4e8e1d83-79a5-4bb9-9899-378033cbe786/capa-video.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\4e8e1d83-79a5-4bb9-9899-378033cbe786\capa-video.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/5dc4592d-cc20-4bf5-9398-7f4934250ee5/feedback-5.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\5dc4592d-cc20-4bf5-9398-7f4934250ee5\feedback-5.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/7e050d97-e698-4792-ab40-9bd02bb2d871/kit-videoaulas.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\7e050d97-e698-4792-ab40-9bd02bb2d871\kit-videoaulas.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/862db200-0d16-4298-8ae8-84c736be3942/feedback-4.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\862db200-0d16-4298-8ae8-84c736be3942\feedback-4.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/9521c953-eae2-4620-8619-94faf6eda2df/kit-questoes.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\9521c953-eae2-4620-8619-94faf6eda2df\kit-questoes.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/97c66da0-3dba-464f-97c4-67327cf8c565/feedback-2.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\97c66da0-3dba-464f-97c4-67327cf8c565\feedback-2.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/98b572c6-25d4-4fa6-8642-2b366dbc5626/feedback_otimizado_4.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\98b572c6-25d4-4fa6-8642-2b366dbc5626\feedback_otimizado_4.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/b121ff3f-d636-4fb1-941c-f67df4d7ec7b/feedback_otimizado_1.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\b121ff3f-d636-4fb1-941c-f67df4d7ec7b\feedback_otimizado_1.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/c30275c2-d377-49f3-8580-68214a90ffd0/feedback_otimizado_2.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\c30275c2-d377-49f3-8580-68214a90ffd0\feedback_otimizado_2.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/c80f63ba-2b6b-4ca0-a3b9-bcc9684cbc30/feedback-1.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\c80f63ba-2b6b-4ca0-a3b9-bcc9684cbc30\feedback-1.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/ce971cfd-34e0-4c3d-927c-9b515ee66272/material-loop.mp4
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\ce971cfd-34e0-4c3d-927c-9b515ee66272\material-loop.mp4
+Content Type: video/mp4
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/d2ab6732-1f8f-4d16-a044-49a66dd3e27a/kit-apostilas.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\d2ab6732-1f8f-4d16-a044-49a66dd3e27a\kit-apostilas.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/d3921593-07a0-4aee-b3fa-231082a2c174/depoimento_enem_1_otimizado.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\d3921593-07a0-4aee-b3fa-231082a2c174\depoimento_enem_1_otimizado.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/d6a83b93-94c3-4355-9e6f-99994e24a820/feedback-3.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\d6a83b93-94c3-4355-9e6f-99994e24a820\feedback-3.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/dfb6aae4-39ca-45e5-b2ef-1bf9bc5b8952/feedback_otimizado_3.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\dfb6aae4-39ca-45e5-b2ef-1bf9bc5b8952\feedback_otimizado_3.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/e9320201-ab96-4220-b0ea-ab0de2a927fc/professora-mobile-v2.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\e9320201-ab96-4220-b0ea-ab0de2a927fc\professora-mobile-v2.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/eaf8d963-7d3f-4d92-8d2c-7ef1c2f8ef4a/depoimento_enem_2_otimizado.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\eaf8d963-7d3f-4d92-8d2c-7ef1c2f8ef4a\depoimento_enem_2_otimizado.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/f03fcd4d-4072-4a9b-8d55-aa052f6d49a7/kit-vitalicio.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\f03fcd4d-4072-4a9b-8d55-aa052f6d49a7\kit-vitalicio.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/f948d448-aa88-4ed9-a8bf-6fd2ab6a8643/kit-redacao.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\f948d448-aa88-4ed9-a8bf-6fd2ab6a8643\kit-redacao.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/assets-v1/fc278f57-0f12-4e3c-8e74-edea9ab3de82/kit-simulados.webp
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\assets-v1\fc278f57-0f12-4e3c-8e74-edea9ab3de82\kit-simulados.webp
+Content Type: image/webp
+
+Uri: https://enemorganizado.lovable.app/__l5e/events.33a4189afb1076e3.js
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\__l5e\events.33a4189afb1076e3.js
+Content Type: application/javascript
+
+Uri: https://enemorganizado.lovable.app/~flock.js
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\~flock.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&family=Inter:wght@400;500;600&display=swap
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\s\poppins\v24\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\s\poppins\v24\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\enemorganizado.lovable.app\s\poppins\v24\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
